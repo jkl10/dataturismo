@@ -1,0 +1,16 @@
+:root{
+    --verde-bandeira: #009C3B;
+}
+
+body{
+    font-family: Montserrat,sans-serif;
+}
+
+#first_content{
+    background-color: var(--verde-bandeira);
+}
+
+
+.nav-link{
+    color: var(--verde-bandeira);
+}
